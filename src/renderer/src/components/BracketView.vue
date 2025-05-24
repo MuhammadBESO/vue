@@ -119,7 +119,7 @@ const teams = reactive(
 }
 
 label {
-  font-size: 0.9rem;
+  font-size: 0.9rem; 
   margin-bottom: 0.25rem;
   color: #cbd5e1;
 }
