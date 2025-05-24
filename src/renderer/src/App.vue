@@ -1,17 +1,12 @@
 <template>
-  <div>
-    <h1>Hello from Vue + Electron</h1>
-  
-  
-  </div>
+  <main class="main">
+    <BracketView />
+     
+  </main>
 </template>
 
 <script setup>
+import BracketView from './components/BracketView.vue'
 </script>
 
-<style>
-body {
-  font-family: sans-serif;
-  margin: 0;
-}
-</style>
+
